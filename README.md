@@ -1,2 +1,2 @@
-# template1
-Ovo je template 1
+# HTML-CSS-Javascript-Website
+HTML CSS Javascript Website Tutorial
